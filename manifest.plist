@@ -16,13 +16,13 @@
                         <key>kind</key>
                         <string>display-image</string>
                         <key>url</key>
-                        <string>https://github.com/qwe162534/app/blob/master/57.png</string><!--修改这里-->
+                        <string>https://raw.githubusercontent.com/qwe162534/app/master/57.png</string><!--修改这里-->
                     </dict>
                     <dict>
                         <key>kind</key>
                         <string>full-size-image</string>
                         <key>url</key>
-                        <string>https://github.com/qwe162534/app/blob/master/512.png</string><!--修改这里-->
+                        <string>https://raw.githubusercontent.com/qwe162534/app/master/512.png</string><!--修改这里-->
                     </dict>
                 </array>
                 <key>metadata</key>
